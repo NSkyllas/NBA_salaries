@@ -1,5 +1,5 @@
 # NBA salaries & science
-## Or how much money do we want to spend for entertainment?
+## How much money do we want to spend for entertainment?
 
 I love basketball and as every other basketball fan I enjoy watching NBA games. The best players of the world play against each other, offering a great spectacle. The stadiums are full, the lights are bright and the players are superstars!
 
